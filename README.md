@@ -4,23 +4,32 @@ Fintellection Engine is an AI-powered search engine designed to fetch and displa
 
 ## Table of Contents
 1. [Technology Stack](#technology-stack)
-    - [Machine Learning and NLP](#machine-learning-and-nlp)
-    - [Backend Development](#backend-development)
-    - [Database](#database)
+    - [Machine Learning and Natural Language Processing](#machine-learning-and-natural-language-processing)
+    - [Backend Framework](#backend-framework)
+    - [Search APIs](#search-apis)
+    - [Reader API](#reader-api)
 2. [License](#license)
 3. [Contact](#contact)
 
 ## Technology Stack
 
-### Machine Learning and NLP
-- **LangChain**: Used for Retrieval-Augmented Generation (RAG) implementation.
-- **Transformers**: Utilized for natural language processing tasks.
+### Machine Learning and Natural Language Processing
+* [LangChain](https://python.langchain.com/docs/get_started/introduction)
+* [Transformers](https://huggingface.co/docs/transformers/index)
+* [OpenAI Embeddings](https://platform.openai.com/docs/api-reference/embeddings)
+* Generative AI Models:
+  * [GPT-3.5 Turbo](https://platform.openai.com/docs/models/gpt-3-5)
+  * [Claude 3.5 Sonnet](https://www.anthropic.com/index/claude-3-family)
 
-### Backend Development
-- **FastAPI**: Employed for backend API development, ensuring fast performance and easy-to-use interfaces.
+### Backend Framework
+* [FastAPI](https://fastapi.tiangolo.com/)
 
-### Database
-- **PostgreSQL**: Chosen for its robustness and efficiency in data storage.
+### Search APIs
+* [Tavily AI](https://tavily.com/)
+* [Serper](https://serper.dev/)
+
+### Reader API
+* [Jina AI Reader](https://jina.ai/reader)
 
 ## License
 
