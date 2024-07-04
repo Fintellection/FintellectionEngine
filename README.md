@@ -31,6 +31,10 @@ Fintellection Engine is an AI-powered search engine designed to fetch and displa
 ### Reader API
 * [Jina AI Reader](https://jina.ai/reader)
 
+### Charting APIs
+* [Awesome Charting](https://github.com/zingchart/awesome-charting)
+* [Lightweight Charts](https://github.com/tradingview/lightweight-charts)
+
 ## License
 
 This project is licensed under the Apache 2.0 License. For more details, see the [LICENSE](LICENSE) file.
